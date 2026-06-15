@@ -2,6 +2,8 @@
 
 A polished, color-coded Node.js command-line application to fetch the latest news headlines from Google News RSS feeds. No API keys required.
 
+## PART OF KAGGLE 5 DAYS OF AI
+
 ## Features
 - 🚀 **Fast and Lightweight** – Fetches directly from Google News RSS.
 - 🎨 **Beautiful Output** – Colorized headlines, source attribution, and relative publication times.
